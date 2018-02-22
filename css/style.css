@@ -2,24 +2,14 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
-
-h1 {
+  }
+  
+  header {
+    
+    border-bottom: 3px solid #000;
+  }
+  
+  #title {
+    width: 100%;
     text-align: center;
-}
-
-form {
-    width: 50%;
-    height: 30px;
-    float: left;
-}
-
-ul {
-    list-style: none;
-    float: right;
-}
-
-.wrapper {
-    max-width: 960px;
-    margin: 0 auto;
-}
+  }
