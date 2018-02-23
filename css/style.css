@@ -50,3 +50,8 @@ header {
   display: block;
   transition: 1s;
 }
+
+footer {
+  color: #fff;
+  text-align: center;
+}
