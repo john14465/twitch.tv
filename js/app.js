@@ -1,4 +1,4 @@
-$(document).ready(function{
+$(document).ready(function(){
     let streamersArr = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"];
 
     for (let i = 0; i < streamersArr.length; i++){
